@@ -5,7 +5,5 @@ main:
     url: /committee/
   - title: "Program"
     url: /program/
-  - title: "History"
-    url: /history/
   - title: "Organizers"
     url: /organizers/
