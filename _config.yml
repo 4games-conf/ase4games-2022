@@ -22,7 +22,7 @@ subtitle                 : "Co-located with ASE'22" # site tagline that appears 
 name                     : "ASE4Games"
 description              : "Second International Workshop on Automated Software Engineering for Computer Games"
 url                      : "https://4games-conf.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/ase4games-2022" # the subpath of your site, e.g. "/blog"
 repository               : "ase4games-2022" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/kid-dev.jpeg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/fase4games-logo.svg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
